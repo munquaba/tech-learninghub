@@ -35,7 +35,7 @@ const Front = () => {
         </motion.div>
 </div>
         <Link to="/cards">
-          <button className="bg-[white] w-[200px]  text-black rounded-md font-medium my-5 mx-auto py-3 mt-8 text-white">
+          <button className="bg-[white] w-[200px]  text-black rounded-md font-medium my-5 mx-auto py-3 mt-8">
             Get Started
           </button>
         </Link>
