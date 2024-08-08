@@ -44,9 +44,9 @@ const Navbar = () => {
             : "ease-in-out duration-500 fixed left-[-100%]"
         }
       >
-        <h1 className="w-full text-3xl font-bold text-[black] m-4">REACT.</h1>
+       
         <li className="p-4 border-b border-gray-600">Home</li>
-        <li className="p-4 border-b border-gray-600">Company</li>
+      
         <li className="p-4 border-b border-gray-600">Resources</li>
         <li className="p-4 border-b border-gray-600">About</li>
         <li className="p-4">Contact</li>
