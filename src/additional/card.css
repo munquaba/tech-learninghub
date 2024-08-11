@@ -3,62 +3,7 @@ body {
     background-color: white;
     height: 1000px;
 }
-/* .nav{
 
-    display: flex;
-    height: 60px;
-    width: 30%;
-    align-items: center;
-    justify-content: space-around;
-    list-style: none;
-    margin-left: 600px;
-
-
-} */
-h1{
-    padding-left: 30px;
-}
-
-/* .navbar{
-    background-color: rgb(2, 2, 47);
-    display: flex;
-    height: 60px;
-    text-align: center;
-    align-items: center;
-    color: aliceblue;
-    width: 100%;
-   
-    
-}
-.navbar{
-    background-color:  rgb(2, 2, 47) ;
-    display: flex;
-    height: 60px;
-    text-align: center;
-    align-items: center;
-    color: aliceblue;
-    width: 100%;   
-} */
-.first{
-    padding-top: 30px;
-    background-color: rgb(3, 3, 52);
-    height: 200px;
-    width: 100%;
-    margin-top: 30px;
-    margin-bottom: 0px;
-    display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    color: rgb(167, 166, 166);
-}
-.second{
-    background-color: black;
-    height: 100px;
-    width: 100%;
-    margin-top: 0px;
-    color: white;
-
-}
 .cards{
     display: flex;
     justify-content: space-evenly;
@@ -111,7 +56,4 @@ a{
     text-decoration: none;
     color: white;
     font-size: 15px;
-}
-li{
-    list-style: none;
 }

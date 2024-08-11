@@ -34,7 +34,7 @@ const Navbar = () => {
         </li>
       </ul>
 
-      <div onClick={handleNav} className="block md:hidden">
+      <div onClick={handleNav}>
         {nav ? <AiOutlineClose size={20} /> : <AiOutlineMenu size={20} />}
       </div>
       <ul
@@ -46,7 +46,7 @@ const Navbar = () => {
       >
        
         <li className="p-4 border-b border-gray-600">Home</li>
-      
+   
         <li className="p-4 border-b border-gray-600">Resources</li>
         <li className="p-4 border-b border-gray-600">About</li>
         <li className="p-4">Contact</li>
@@ -54,5 +54,6 @@ const Navbar = () => {
     </div>
   );
 };
+
 
 export default Navbar;
